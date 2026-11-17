@@ -9,7 +9,7 @@
       "interface": {
         "displayName": "Wizeprep Study",
         "shortDescription": "Plan, review, and practice",
-        "longDescription": "See what's on your Wizeprep study list, review lesson notes you can access, and practice one question at a time. You can also review flash cards from your courses. Course content depends on your Wizeprep account access. Course-wide progress and video playback are available on Wizeprep.",
+        "longDescription": "For Wizeprep students. See today's study tasks, browse your enrolled courses, and review lesson notes and transcripts you can access. Practice one question at a time, review flash cards from your decks, and ask for suggested changes to your study plan. What you can read and save depends on your Wizeprep course access and the permissions you approve. Videos, section practice, and course-wide progress stay on the Wizeprep website. Applying a suggested plan change isn't available yet.",
         "developerName": "Wizeprep",
         "category": "Education & Research",
         "websiteURL": "https://www.wizeprep.com",

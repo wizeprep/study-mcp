@@ -1,6 +1,14 @@
 # OpenAI review test cases
 
-Run each case after the production launch with a dedicated demo student and synthetic course content. Seed today’s private tasks, a dated goal and adjustable tasks for that goal, an enrolled sample course with accessible lesson notes and a standalone question, and a second course the demo student cannot access. Grant the demo connection the permissions needed for the positive cases.
+Run each case after the production launch with a dedicated demo student and synthetic course content. Seed this content, using the same names as the prompts below:
+
+- **Today’s private tasks:** three tasks due today in the demo student’s time zone, at least one unfinished.
+- **Goal:** “Cell Biology Midterm”, dated about two weeks out, with at least three unfinished tasks.
+- **Enrolled course:** “Intro Biology”, with a lesson “Cell Membranes” that has notes and full access, and a standalone question “Membrane Transport” with an explanation.
+- **Flash cards:** a “Cell Biology” deck with a few cards the student can open.
+- **Locked course:** “Advanced Biology”, which the demo student is not enrolled in.
+
+Grant the demo connection read and write permissions for the positive cases.
 
 ## Review details
 

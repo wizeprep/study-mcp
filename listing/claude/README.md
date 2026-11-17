@@ -14,7 +14,7 @@ See what to study today, review your Wizeprep lessons, and practice with questio
 
 Connect your Wizeprep student account to see today’s study tasks and the courses you’re enrolled in. Explore a course outline, review lesson notes you have access to, and jump to the Wizeprep player to watch a lesson. Work through one available practice question at a time, or review the front and back of a flash card before saving your rating. You can also ask for a proposal to adjust your private study plan.
 
-Course access and connection permissions determine what you can read and save. Course-wide progress, history, and insights are available in the Wizeprep course player. Section practice and applying plan proposals are held in v1. Claude.ai is for users aged 18 and older.
+Course access and connection permissions determine what you can read and save. Course-wide progress, history, and insights are available in the Wizeprep course player. Section practice and applying plan proposals aren’t available yet. Claude.ai is for users aged 18 and older.
 
 **Category**
 
@@ -22,7 +22,7 @@ Education. [Claude Marketplace’s education category](https://claude.com/market
 
 **Setup**
 
-A Wizeprep student account with access to Study, plus a Claude account that supports custom connectors. Connect using the [setup guide](../../README.md#claude). You choose the requested read and write permissions when you connect.
+A Wizeprep student account with access to Study and a Claude account. Connect from the Connectors Directory, or add it as a custom connector using the [setup guide](../../README.md#claude). You choose the requested read and write permissions when you connect.
 
 **Links**
 

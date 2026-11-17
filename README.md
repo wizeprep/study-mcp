@@ -44,8 +44,8 @@ Run the second command if the first hasn’t already signed you in. Review permi
 ## What’s available in v1
 
 - Course content follows your Wizeprep account access. Videos play on Wizeprep. Transcript availability depends on full lesson access and whether the lesson has captions.
-- Study tasks and dated goals live in your private Wizeprep Study list. You can request a plan proposal and see the suggested changes. Applying or undoing a proposal is held in v1.
-- Standalone course questions support practice and answer saving where your course allows it. Section practice is held. For course-wide history, progress, insights, or the course-wide review list, open the course player on Wizeprep.
+- Study tasks and dated goals live in your private Wizeprep Study list. You can request a plan proposal and see the suggested changes. Applying or undoing a proposal isn’t available yet.
+- Standalone course questions support practice and answer saving where your course allows it. Section practice isn’t available here yet, so use the course player for it. For course-wide history, progress, insights, or the course-wide review list, open the course player on Wizeprep.
 - Going through a flash card’s front and back is separate from submitting a rating. Daily cards require an active Wizeprep schedule. You can also choose an available deck directly.
 - Wizeprep Study is for learning and exam preparation. Use your course materials to verify explanations. Keep live exam questions, symptoms, medical records, and other sensitive personal information out of prompts and notes.
 
@@ -62,7 +62,7 @@ Your AI app receives the study content returned by tools you authorize. Removing
 | Custom connection option is missing | Check your host’s plan or ask your workspace admin to enable custom MCP connections. |
 | The connection won’t finish or has expired | Check the server address, then reconnect and sign in to the correct Wizeprep student account. If Wizeprep shows an invitation requirement, contact Wizeprep support. |
 | A course, lesson or transcript is missing | Check your enrollment and lesson access in Wizeprep. Ask the AI app to list your enrolled courses again, then choose the course by name. |
-| A write is unavailable | Check the permissions you approved and whether your host supports writes. For held course features, use the Wizeprep course player. |
+| A write is unavailable | Check the permissions you approved and whether your host supports writes. For features that aren’t available here yet, use the Wizeprep course player. |
 | An answer or rating save is uncertain | Check the course player or flash card deck for the result before trying again. |
 | An interactive card doesn’t appear | Ask for the result in text, or open the Wizeprep link in the response. |
 

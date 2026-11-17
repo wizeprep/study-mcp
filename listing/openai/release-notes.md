@@ -4,7 +4,7 @@
 
 First Wizeprep Study package for ChatGPT and Codex. Connect a Wizeprep student account to see private study tasks, browse enrolled course outlines, and read available lesson notes and transcripts. Practice with accessible standalone questions and review cards in your Wizeprep flash card decks. Course and connection permissions determine what you can read or save.
 
-You can review proposed changes to your private study plan. Applying proposals and section practice are held in v1. Visit the Wizeprep course player for videos and course-wide history, progress, insights, and review.
+You can review proposed changes to your private study plan. Applying proposals and section practice aren’t available yet. Visit the Wizeprep course player for videos and course-wide history, progress, insights, and review.
 
 ## Publication decisions
 
