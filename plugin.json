@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "wizeprep-study",
+  "version": "0.1.0",
+  "description": "Plan study sessions, review lessons, and practice with Wizeprep.",
+  "repository": "https://github.com/wizeprep/study-mcp",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Wizeprep Study",
+        "shortDescription": "Plan, review, and practice",
+        "longDescription": "For Wizeprep students. See today's study tasks, browse your enrolled courses, and review lesson notes and transcripts you can access. Practice one question at a time, review flash cards from your decks, and ask for suggested changes to your study plan. What you can read and save depends on your Wizeprep course access and the permissions you approve. Videos, section practice, and course-wide progress stay on the Wizeprep website. Applying a suggested plan change isn't available yet.",
+        "developerName": "Wizeprep",
+        "category": "Education & Research",
+        "websiteURL": "https://www.wizeprep.com",
+        "supportURL": "https://www.wizeprep.com/call-us",
+        "privacyPolicyURL": "https://www.wizeprep.com/v2/mcp/privacy",
+        "termsOfServiceURL": "https://www.wizeprep.com/v2/mcp/terms",
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png"
+      }
+    }
+  }
+}
